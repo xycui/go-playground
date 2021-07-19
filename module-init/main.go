@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/xycui/go-playground/module-init/module-init/m"
-	"github.com/xycui/go-playground/module-init/module-init/n"
+	"github.com/xycui/go-playground/module-init/m"
+	"github.com/xycui/go-playground/module-init/n"
 )
 
 var (
