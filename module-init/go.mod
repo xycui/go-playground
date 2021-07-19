@@ -1,3 +1,3 @@
 module github.com/xycui/go-playground/module-init
 
-go 1.15
+go 1.16
